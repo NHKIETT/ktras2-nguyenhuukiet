@@ -110,17 +110,22 @@ header .navbar a :hover{
 .main .main-content article h2{
   color:#B67352;
 
+
 }
 
 .main .main-content article h5{
   color: #78ABA8;
   margin-bottom: 0.5rem;
+
+
+  
 }
 
 .main .main-content article p{
   color: #000;
   text-align: justify;
   margin-bottom: 1rem;
+
 }
 
 .main .main-content article img{
